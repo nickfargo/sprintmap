@@ -1,0 +1,16 @@
+{
+  "name": "sprintmap",
+  "version": "0.0.1",
+  "description": "Sparse random integer-keyed map",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha -R spec --timeout 10000"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "*",
+    "chai": ">=4.0.1"
+  }
+}
